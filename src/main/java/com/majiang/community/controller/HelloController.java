@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * @author solang
- * @date 2019-10-01 18:05
+ * @date 2019-10-01 18:git remote add origin git@github.com:itCcc/community.git05
  */
 @Controller
 public class HelloController {
